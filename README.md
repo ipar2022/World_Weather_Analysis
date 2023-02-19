@@ -6,4 +6,4 @@
 
 - Summary 
 
-- The locations based on temperature is Colombia, Venezuela and Mexico.
+- The location based on temperature is Colombia, Ecuador, Panama and Venezuela.
